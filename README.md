@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working at **AION Cloud**
 
-- 🌱 I’m currently learning **Docker & AWS Aurora**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Sbdk24](https://github.com/Sbdk24)
 
 - 💬 Ask me about **PostgreSQL & ETL processes**
