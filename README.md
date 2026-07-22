@@ -6,7 +6,7 @@
 
 - All of my projects are available at [https://github.com/Sbdk24](https://github.com/Sbdk24)
 
-- Ask me about **PostgreSQL & ETL processes**
+- Ask me about **AWS & DevOps**
 
 - How to reach me **santibocag@gmail.com**
 
